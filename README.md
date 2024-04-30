@@ -4,6 +4,9 @@ The goal of CartoonGAN is to learn the mapping from real-world images to cartoon
 
 Pytorch
 First, you must download the pre-trained models with the command below, you will download these models. copy in the terminal:
+
 sh pretrained_model/download_pth.sh
+
 Then run the program, and copy in the terminal: 
+
 streamlit run st-app.py 
